@@ -1,0 +1,15 @@
+/Users/macbook/Desktop/Recap/bin/Debug/net7.0/Recap
+/Users/macbook/Desktop/Recap/bin/Debug/net7.0/Recap.deps.json
+/Users/macbook/Desktop/Recap/bin/Debug/net7.0/Recap.runtimeconfig.json
+/Users/macbook/Desktop/Recap/bin/Debug/net7.0/Recap.dll
+/Users/macbook/Desktop/Recap/bin/Debug/net7.0/Recap.pdb
+/Users/macbook/Desktop/Recap/obj/Debug/net7.0/Recap.csproj.AssemblyReference.cache
+/Users/macbook/Desktop/Recap/obj/Debug/net7.0/Recap.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Desktop/Recap/obj/Debug/net7.0/Recap.AssemblyInfoInputs.cache
+/Users/macbook/Desktop/Recap/obj/Debug/net7.0/Recap.AssemblyInfo.cs
+/Users/macbook/Desktop/Recap/obj/Debug/net7.0/Recap.csproj.CoreCompileInputs.cache
+/Users/macbook/Desktop/Recap/obj/Debug/net7.0/Recap.dll
+/Users/macbook/Desktop/Recap/obj/Debug/net7.0/refint/Recap.dll
+/Users/macbook/Desktop/Recap/obj/Debug/net7.0/Recap.pdb
+/Users/macbook/Desktop/Recap/obj/Debug/net7.0/Recap.genruntimeconfig.cache
+/Users/macbook/Desktop/Recap/obj/Debug/net7.0/ref/Recap.dll
